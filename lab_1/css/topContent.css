@@ -1,0 +1,46 @@
+.topBlock{
+    color: #FFFFFF;
+}
+
+.leftBlockTopBlock{
+    flex-grow: 1;
+    position: absolute;
+    width: 603px;
+    padding-top: 200px;
+}
+
+.rigthTopBlok{
+    flex-grow: 1;
+}
+
+.topContentBlock{
+    display: flex;
+}
+
+.exploreMinButton{
+    background-color: #FFFFFF;
+    opacity: 75%;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 15px;
+}
+
+.exploreMaxButton{
+    background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
+    color: #FFFFFF;
+    font-size: 25px;
+    padding: 25px;
+    border-radius: 27px;
+    margin-top: 50px;
+}
+
+.exploreTitle{
+    font-size: 55px;
+    margin-top: 50px;
+}
+
+.exploreText{
+    font-size: 25px;
+    opacity: 50%;
+    margin-top: 50px;
+}

@@ -1,0 +1,51 @@
+.contentBlock{
+    display: flex;
+}
+
+.imgBlock{
+
+}
+
+.fiatBack{
+    margin-left: 50px;
+}
+
+.questions{
+    font-size: 45px;
+}
+
+.person{
+    margin-top: 50px;
+    display: flex;
+}
+
+.avatar{
+    border-radius: 50%;
+}
+
+.place{
+    margin-left:  20px;
+    margin-top:  10px;
+    
+}
+
+.placeTitle{
+    font-size: 33px;
+}
+
+.placeOptions{
+    margin-top:  10px;
+    font-size: 25px;
+    opacity: 50%;
+}
+
+.description{
+    margin-top: 75px;
+    font-size: 22px;
+    opacity: 50%;
+}
+
+.stars{
+    display: flex;
+    margin-top: 50px;
+}
