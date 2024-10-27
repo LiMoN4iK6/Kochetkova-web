@@ -12,6 +12,7 @@
     font-family: "Poppins", sans-serif;
 }
 
-.mainWrapper{
-    margin: 30px;
+.page{
+    margin: 0 auto;
+    width: 1440px;
 }

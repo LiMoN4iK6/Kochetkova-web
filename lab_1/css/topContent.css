@@ -1,23 +1,23 @@
-.topBlock{
+.page__top{
     color: #FFFFFF;
 }
 
-.leftBlockTopBlock{
+.top-content__left{
     flex-grow: 1;
     position: absolute;
     width: 603px;
     padding-top: 200px;
 }
 
-.rigthTopBlok{
+.top-content__right{
     flex-grow: 1;
 }
 
-.topContentBlock{
+.top-content{
     display: flex;
 }
 
-.exploreMinButton{
+.top-content__button--explore-min{
     background-color: #FFFFFF;
     opacity: 75%;
     padding: 15px;
@@ -25,7 +25,7 @@
     border-radius: 15px;
 }
 
-.exploreMaxButton{
+.top-content__button--explore-max{
     background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
     color: #FFFFFF;
     font-size: 25px;
@@ -34,12 +34,12 @@
     margin-top: 50px;
 }
 
-.exploreTitle{
+.top-content__title{
     font-size: 55px;
     margin-top: 50px;
 }
 
-.exploreText{
+.top-content__text{
     font-size: 25px;
     opacity: 50%;
     margin-top: 50px;

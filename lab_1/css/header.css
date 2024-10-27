@@ -5,26 +5,25 @@
 
 }
 
-.logo{
+.header__logo{
     display: flex;
     align-items: center;
     font-size: 20px;
 }
 
-
-.navElement{
+.header__nav-item{
     display: flex;
     align-items: center;
     font-size: 15px;
 }
 
-.signIn{
+.header__button--sign-up{
     background-color: transparent;
     color: #FFFFFF;
     font-size: 15px;
 }
 
-.login{
+.header__button--login{
     background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
     color: #FFFFFF;
     padding: 13px 40px;

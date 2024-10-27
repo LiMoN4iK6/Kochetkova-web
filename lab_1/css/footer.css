@@ -5,7 +5,7 @@
     margin-top: 150px;
 }   
 
-.logoFooter{
+.footer__logo{
     display: flex;
     align-items: center;
     font-size: 30px;
@@ -13,19 +13,18 @@
 }
 
 
-.navElementFooter{
+.footer__nav-item{
     display: flex;
     align-items: center;
     font-size: 15px;
 }
 
-.signInFooter{
+.footer__button--sign-up{
     background-color: transparent;
-    color: #FFFFFF;
     font-size: 15px;
 }
 
-.loginFooter{
+.footer__button--login{
     background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
     color: #FFFFFF;
     padding: 13px 40px;

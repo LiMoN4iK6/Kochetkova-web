@@ -1,11 +1,11 @@
-.topBlock{
+.page__top{
     padding: 50px;
     background: linear-gradient(132.05deg, #428E5F -17.38%, #112120 78.4%);
     border-top-left-radius: 60px;
     border-top-right-radius: 60px;
 }
 
-.bottomBlock{
+.page__bottom{
     padding: 50px;
     margin-top: 50px;
 }

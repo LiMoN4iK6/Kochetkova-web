@@ -1,51 +1,47 @@
-.contentBlock{
+.content{
     display: flex;
 }
 
-.imgBlock{
-
-}
-
-.fiatBack{
+.feedback{
     margin-left: 50px;
 }
 
-.questions{
+.feedback__question{
     font-size: 45px;
 }
 
-.person{
+.feedback__person{
     margin-top: 50px;
     display: flex;
 }
 
-.avatar{
+.feedback__avatar{
     border-radius: 50%;
 }
 
-.place{
+.feedback__info{
     margin-left:  20px;
     margin-top:  10px;
     
 }
 
-.placeTitle{
+.feedback__name{
     font-size: 33px;
 }
 
-.placeOptions{
+.feedback__location{
     margin-top:  10px;
     font-size: 25px;
     opacity: 50%;
 }
 
-.description{
+.feedback__description{
     margin-top: 75px;
     font-size: 22px;
     opacity: 50%;
 }
 
-.stars{
+.feedback__rating{
     display: flex;
     margin-top: 50px;
 }
