@@ -1,0 +1,39 @@
+.page__image{
+    width: 364px;
+    height: 359px;
+    border-radius: 12px;
+}
+
+.page__title{
+    font-family: "Overpass", sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    margin-top: 24px;
+}
+
+.page__text{
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+.page__person{
+    display: flex;
+    margin-top: 24px;
+}
+
+.page__person-name{
+    font-family: "Overpass", sans-serif;
+    padding: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+
+}
+
+.page__person-avatar{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
