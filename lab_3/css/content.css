@@ -1,0 +1,67 @@
+.content{
+    background-color: #4285f4;
+    padding: 96px 80px;
+    flex: 50%;
+}
+
+.content__logo{
+    display: flex;
+}
+
+.content__logo-img{
+    width: 42px;
+    height: 42px;
+    margin-right: 8px;
+}
+
+.content__tittle{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    font-style: normal;
+    color: white;
+}
+
+.content__subtittle{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    font-style: normal;
+    color: white;
+    margin-top: 24px;
+}
+
+.content__text{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+    margin-top: 24px;
+}
+
+.content__button{
+    display: flex;
+    margin-top: 24px;
+}
+
+.content__button-text{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: white;
+}
+
+.content__button-img{
+    width: 13.09px;
+    height: 10.4px;
+    margin-top: 4px;
+    margin-left: 1.45px;
+}
+
+.content__img{
+    margin: 128px 11px 0 11px;
+    width: 538px;
+    height: 454px;
+}

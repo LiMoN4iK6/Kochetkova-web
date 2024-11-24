@@ -1,0 +1,131 @@
+.signin{
+    padding: 248px 164px;
+    margin: 0 auto;
+    text-align: center;
+    flex: 50%;
+}
+  
+.signin__title{
+    font-family: "Poopins", sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+.signin__form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+  
+.signin__field{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+  
+.signin__label{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: #84818A;
+}
+  
+.signin__input{
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #DCDBDD;
+    border-radius: 12px;
+}
+  
+.signin__forgot-password{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    align-self: flex-end;
+    font-size: 12px;
+    color: #47464A;
+    text-decoration: none;
+    margin-top: 4px;
+}
+  
+.signin__terms{
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: 12px;
+}
+  
+.signin__checkbox{
+    margin-top: 4px;
+}
+  
+.signin__terms-label{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    text-align: left;
+}
+  
+.signin__link{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #4285F4;
+    text-decoration: none;
+}
+  
+.signin__button{
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    color: white;
+    background-color: #4285f4;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+  
+.signin__button-google{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    background-color: white;
+    color: #4285f4;
+    border: 1px solid #DCDBDD;
+}
+  
+.signin__divider{
+    display: flex;
+}
+
+.signin__divider-line{
+    margin: 10px 0px;
+    width: 177px;
+    height: 1px;
+    top: 10px;
+    gap: 0px;
+    opacity: 0px;
+    background: #DCDBDD;
+}
+  
+.signin__divider-text{
+    font-family: "Poppins", sans-serif;
+    margin: 0px 12px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #84818A;
+}
+
+.signin__google-icon{
+    margin-left: 130px;
+    margin-right: 12px;
+}
+
+.signin__signup{
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #0A0A0A;
+}

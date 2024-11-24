@@ -1,0 +1,8 @@
+@import url("content.css");
+@import url("signin.css");
+
+.page{
+    display: flex;
+    width: 1440px;
+    height: 1024px;
+}
