@@ -1,0 +1,49 @@
+.preview{
+    background-color: white;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 12px;
+    box-shadow: 8px 8px 0px 1px #1E1E1E;
+    margin-top: 112px;
+    padding: 152px 120px;
+}
+
+.preview__title{
+    flex: 50%;
+    padding-right: 16px ;
+}
+
+.preview__description{
+    flex: 50%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.preview__title-element{
+    display: inline;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+.preview__title-text{
+    margin-top: 16px;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+
+
+
+@media(max-width: 830px){
+    .preview{
+        display: block;
+        padding: 50px 30px;
+        text-align: center;
+    }
+
+    .preview__title{
+        padding-right: 0;
+    }
+}
